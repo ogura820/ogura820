@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ono@D_pro</h1>
+<h1 align="center">Hi 👋, I'm OnO@D_pro</h1>
 <h3 align="center">A passionate developer from Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogura820&label=Profile%20views&color=0e75b6&style=flat" alt="ogura820" /> </p>
